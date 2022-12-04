@@ -1,6 +1,6 @@
 # sendtomycr.github.io
 
-<html lang="en">
+<title>Document</title><html lang="en">
 
 <head>
     <meta charset="UTF-8">
